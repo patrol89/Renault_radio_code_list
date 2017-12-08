@@ -1,7 +1,7 @@
 # Renault_radio_code_list
 
-Liste de tous les codes de sécurité à utiliser pour activer votre autoradio Renault.
------
+Pod kodem kreskowym ostatnie 4 symbole (znak i 3 cyfry)
+obsługa 1-4, akceptacja 6
 
 |Precode|code|
 |-------|----|
